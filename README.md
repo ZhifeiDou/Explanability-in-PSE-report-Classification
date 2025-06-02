@@ -5,4 +5,8 @@ This is the research for Zhifei Dou under the supervision of Eldan Cohen. This p
 The details of this project can be find [here](/Assets/Project_report.pdf)
 
 ## Project Structure
+Following is the structure of this project, mainly consist of two methods: Fine-tune and Post-Hoc, Prompt-based generation and NLE
 <img src="./Assets/structure_map.png" alt="Project Structure" width="800"/>
+
+The process map for Fine-tune and Post-Hoc Method is:
+<img src="./Assets/process_finetune.png" alt="Fine-tuned and Post-Hoc Method Process" width="800"/>
