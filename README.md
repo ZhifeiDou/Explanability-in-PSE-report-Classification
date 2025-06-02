@@ -1,5 +1,5 @@
 # Evaluating Explainability with LLM for Patient Safety Event Report Classification 
-This is the research for Zhifei Dou under the supervision of Eldan Cohen. This project aims to evaluate the post-hoc explainability techniques (XAI) for fine-tuned models with classification heads and natural language explanations for generative models
+This is the research for Zhifei Dou under the supervision of Eldan Cohen. This project aims to evaluate the **post-hoc explainability techniques (XAI) for fine-tuned models with classification heads and natural language explanations for generative models** with collected Patient Safety Event (PSE) report to assist medical organization staffs.
 
 ## Project Details
 The details of this project can be find [here](/Assets/Project_report.pdf)
