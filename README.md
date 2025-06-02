@@ -10,3 +10,6 @@ Following is the structure of this project, mainly consist of two methods: Fine-
 
 The process map for Fine-tune and Post-Hoc Method is:
 <img src="./Assets/process_finetune.png" alt="Fine-tuned and Post-Hoc Method Process" width="800"/>
+
+The process map for the Generative and NLE Method is:
+<img src="./Assets/process_generative.png" alt="Generative and NLE Method Process" width="800"/>
