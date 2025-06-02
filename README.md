@@ -5,3 +5,4 @@ This is the research for Zhifei Dou under the supervision of Eldan Cohen. This p
 The details of this project can be find [here](/Assets/Project_report.pdf)
 
 ## Project Structure
+<img src="./assets/structure_map.png" alt="Project Structure" width="400"/>
